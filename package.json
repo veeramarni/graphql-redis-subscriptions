@@ -46,7 +46,7 @@
     "@types/node": "7.0.18",
     "@types/redis": "^0.12.34",
     "@types/simple-mock": "0.0.27",
-    "chai": "^3.5.0",
+    "chai": "^4.1.0",
     "chai-as-promised": "^6.0.0",
     "graphql": "^0.10.1",
     "istanbul": "1.0.0-alpha.2",
